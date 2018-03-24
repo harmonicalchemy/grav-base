@@ -1,7 +1,9 @@
 # Composer
 .composer
-vendor/*
-!*/vendor/*
+composer.json
+composer.lock
+# vendor/*
+# !*/vendor/*
 
 # Sass
 .sass-cache
