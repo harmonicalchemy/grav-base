@@ -17,6 +17,8 @@ assets/*
 !assets/.*
 logs/*
 !logs/.*
+tmp/*
+!tmp/.*
 images/*
 !images/.*
 user/accounts/*
